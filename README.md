@@ -1,4 +1,4 @@
-# Publications-Louis Begel
+# CV-Louis Begel
 
 Ce dépôt contient la page GitHub et les ressources (PDF) de mes publications scientifiques.
 
