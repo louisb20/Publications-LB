@@ -1,7 +1,7 @@
 # Publications – Begel
 
-Bienvenue ! Voici mes publications scientifiques.  
-Chaque entrée contient un lien vers HAL, arXiv, DOI ou PDF.
+Voici mes publications scientifiques.  
+Chaque entrée contient un lien vers DOI ou PDF.
 
 ---
 
