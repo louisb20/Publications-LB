@@ -9,7 +9,7 @@ Chaque entrée contient un lien vers HAL, arXiv, DOI ou PDF.
 
 1. Begel L., Galstian T. (May 2025).  
    *Dynamic presbyopia correction in the macular field of view by using a liquid crystal lens*. **Biomedical Optics Express**, 16(6), 2440--2458.  
-   [ResearchGate](https://www.researchgate.net/publication/391728476_Dynamic_presbyopia_correction_in_the_macular_field_of_view_by_using_a_liquid_crystal_lens) 
+   [ResearchGate](https://www.researchgate.net/publication/391728476_Dynamic_presbyopia_correction_in_the_macular_field_of_view_by_using_a_liquid_crystal_lens) · [PDF](papers/Article_3_Dynamic_presbyopia_correction_in_the_macular_field.pdf)
 2. Begel L., Galstian T. (Mar 2024).  
    *Dynamic control of defocus, astigmatism, and tilt aberrations with a large area foveal liquid crystal lens*. **Applied Optics**, 63(11), 2798--2805.    
    [ResearchGate](https://www.researchgate.net/publication/378884326_Dynamic_control_of_defocus_astigmatism_and_tilt_aberrations_with_a_large_area_foveal_liquid_crystal_lens)
