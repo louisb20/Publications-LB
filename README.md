@@ -6,4 +6,4 @@ Site en ligne : `https://<username>.github.io/publications/`
 
 ## Structure
 - `index.md` : page principale
-- `papers/` : PDFs autorisés (version auteur/préprint si l’éditeur l’exige)
+- `papers/` : Fichiers PDFs
