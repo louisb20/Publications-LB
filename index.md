@@ -23,5 +23,5 @@ Chaque entrée contient un lien vers DOI ou PDF.
    *Dynamic compensation of gradient index rod lens aberrations by using liquid crystals*. **Applied Optics**, 57(26), 7618--7621.    
    [DOI](10.1364/AO.57.007618) · [PDF](papers/A2_Dynamic_compensation_of_gradient_index_rod_lens.pdf)
 6. Begel L., Galstian T. (June 2018).  
-   *Liquid crystal lens with corrected wavefront asymmetry*. **Applied Optics**, 57(18), 7618--7621.    
+   *Liquid crystal lens with corrected wavefront asymmetry*. **Applied Optics**, 57(18), 5072--5078.    
    [DOI](10.1364/AO.57.005072) · [PDF](papers/A1_Liquid_crystal_lens_with_corrected_wavefront_asym.pdf)
