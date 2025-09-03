@@ -27,6 +27,11 @@ Chaque entrée contient un lien vers DOI ou PDF.
    [DOI](10.1364/AO.57.005072) · [PDF](papers/A1_Liquid_crystal_lens_with_corrected_wavefront_asym.pdf)
 
 ## Thèse et mémoire
+**Begel L.** (202).  
+   *Développement et optimisation d’une cellule à cristaux liquides adaptative pour la correction dynamique de la vision maculaire*. ** Philosophiæ doctor (Ph. D.)
+)**, Canada [PDF](papers/These_LB.pdf)
 
+**Begel L.** (2018).  
+   *Une lentille segmentée modulable à cristaux liquide pour l’optique adaptative sans pixelisation*. ** Maîtrise de Physique avec mémoire, Maître ès sciences (M. Sc.)**, Canada [PDF](papers/Mémoire_LB.pdf)
 
 
