@@ -1,4 +1,4 @@
-# Publications – Begel
+# CV – Begel
 
 Voici mes publications scientifiques.  
 Chaque entrée contient un lien vers DOI ou PDF.
